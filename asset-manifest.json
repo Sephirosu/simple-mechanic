@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-mechanic/static/css/main.a76ba80e.css",
+    "main.js": "/simple-mechanic/static/js/main.8652b386.js",
+    "index.html": "/simple-mechanic/index.html",
+    "main.a76ba80e.css.map": "/simple-mechanic/static/css/main.a76ba80e.css.map",
+    "main.8652b386.js.map": "/simple-mechanic/static/js/main.8652b386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76ba80e.css",
+    "static/js/main.8652b386.js"
+  ]
+}
